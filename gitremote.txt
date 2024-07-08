@@ -1,0 +1,9 @@
+git remote steps :
+Github account 
+Empty repo 
+Local system 
+   git config --global user.name “Simrangupta185”
+   git config --global email.com “simran109gupta@gmail.com”
+git push -u origin main 
+   username? - Simrangupta185
+   password ? - now you have to generate a token from github 
